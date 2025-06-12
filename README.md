@@ -12,6 +12,6 @@ This repository contains a collection of Python exercises and interview question
 Notebooks included:
 - `exercises_1_to_10.ipynb`: Introductory Python exercises
 - `exercises_11_to_20.ipynb`: Intermediate Python exercises
-- `generic exercises_interview.ipynb`: General Python interview questions and coding patterns
+- `generic exercises_interview.ipynb`: General Python questions and coding patterns
 
 Each notebook contains code examples, explanations, and practice problems to reinforce my understanding.
