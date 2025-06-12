@@ -1,6 +1,6 @@
 # Python-exercises
 
-This repository contains a collection of Python exercises and interview questions designed to help you practice and master core programming concepts. The exercises cover:
+This repository contains a collection of Python exercises and interview questions designed to help me practice and master core programming concepts. The exercises cover:
 
 - Lists, tuples, sets, and dictionaries
 - Data structures and their operations
@@ -14,4 +14,4 @@ Notebooks included:
 - `exercises_11_to_20.ipynb`: Intermediate Python exercises
 - `generic exercises_interview.ipynb`: General Python interview questions and coding patterns
 
-Each notebook contains code examples, explanations, and practice problems to reinforce your understanding. These materials are suitable for interview preparation, self-study, or classroom use.
+Each notebook contains code examples, explanations, and practice problems to reinforce my understanding.
